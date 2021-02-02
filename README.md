@@ -1,2 +1,2 @@
 # faceX
-Face recognition app
+Face detection app
